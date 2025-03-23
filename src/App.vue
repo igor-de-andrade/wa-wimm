@@ -1,12 +1,21 @@
 <script setup lang="ts">
+import NavBar from './components/NavBar.vue';
+import Statement from './views/Statement.vue';
+
+
 </script>
 
 <template>
+  <NavBar />
+  <Statement />
+  
+  
 
-  <img src="../public/wimm-logo.png">
 
 </template>
 
 <style scoped>
+
+
 
 </style>
